@@ -144,7 +144,7 @@ python -m http.server 8000
 The public dashboard is hosted via **GitHub Pages**:
 
 ```
-https://YOUR_USERNAME.github.io/kernelscope
+https://SilentGlasses-Labs.github.io/kernelscope
 ```
 
 ## Project Goals
